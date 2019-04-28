@@ -11,3 +11,5 @@ Create a new branch is quick and simple.
 >>>>>>> featurel
 
 add 'revise'
+
+Creating a new branch is quick ND simple.
