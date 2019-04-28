@@ -12,4 +12,4 @@ Create a new branch is quick and simple.
 
 add 'revise'
 
-Creating a new branch is quick ND simple.
+Creating a new branch is quick & simple.
