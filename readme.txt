@@ -10,6 +10,6 @@ Create a new branch is quick and simple.
 
 >>>>>>> featurel
 
-add 'revise'
+add 'revise' now
 
 Creating a new branch is quick and simple.
